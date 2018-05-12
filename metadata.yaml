@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '6599'
     url: http://www.gutenberg.org/2009/agents/6599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16285#The-Way-of-Salvation-in-the-Lutheran-Church
 gutenberg_issued: '2005-07-13'
 gutenberg_type: Text
 identifiers:
