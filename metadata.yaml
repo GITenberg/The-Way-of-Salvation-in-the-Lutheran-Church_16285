@@ -1,0 +1,37 @@
+_repo: The-Way-of-Salvation-in-the-Lutheran-Church_16285
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Rhodes, M. (Mosheim)
+    alias: Rhodes, Mosheim
+    birthdate: 1837
+    deathdate: 1924
+    gutenberg_agent_id: '6600'
+    url: http://www.gutenberg.org/2009/agents/6600
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerberding, G. H. (George Henry)
+    alias: Gerberding, George Henry
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '6599'
+    url: http://www.gutenberg.org/2009/agents/6599
+description: ''
+gutenberg_issued: '2005-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16285'
+  lccn: '45031248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lutheran Church -- Doctrinal and controversial works'
+- !lcc 'BX'
+- !lcsh 'Salvation'
+title: The Way of Salvation in the Lutheran Church
+url: http://www.gutenberg.org/ebooks/16285
